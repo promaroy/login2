@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding:0;
-   background-image:linear-gradient(pink,violet);
+   background-image:linear-gradient(green,violet);
    font-family: sans-serif;
 }
  .loginbox{
